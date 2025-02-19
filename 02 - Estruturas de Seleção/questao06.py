@@ -28,3 +28,4 @@ elif renda_liquida > 5000 and renda_liquida <= 10000:
 else:
     valor_imposto = (renda_liquida / 100) * 15
     print('Valor do Imposto:', valor_imposto)
+
